@@ -1,0 +1,6 @@
+{
+  "name": "Schleicher & Braun GmbH – Finanzdienstleistungen",
+  "description": "Premium-Webauftritt für Schleicher & Braun GmbH, Schwäbisch Hall. Persönliche Beratung für Absicherung, Altersvorsorge, Vermögensaufbau und Immobilienfinanzierung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

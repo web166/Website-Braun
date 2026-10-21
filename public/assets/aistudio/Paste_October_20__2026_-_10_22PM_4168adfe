@@ -1,0 +1,382 @@
+Starte einen neuen Website-Verkaufsprototyp.
+Lies zuerst GLOBAL_RULES.md, die vorhandenen Tool-Anweisungen und customer.md. Prüfe danach assets/ und references/vollständig, soweit zugänglich. Analysiere die angegebene Unternehmenswebsite und verlässliche Unternehmensquellen.
+Entwickle nach den verbindlichen Projektregeln ein individuelles Konzept für die Startseite dieses Unternehmens.
+Präsentiere zunächst ausschließlich das kurze Konzept mit:
+* Sektionen und Reihenfolge
+* visueller Richtung
+* Bildnutzung
+* wichtigsten Conversion-Elementen
+* gegebenenfalls einem sinnvollen interaktiven Element
+* einer individuellen Idee für dieses Unternehmen
+Warte danach auf mein ausdrückliches Umsetzungs-Go. Vor diesem Go darfst du keinen Website-Code erzeugen oder verändern und keine Website-Dateien anlegen, löschen oder überschreiben.
+Wenn benötigte Dateien oder Informationen fehlen oder die Zielumgebung den technischen Rahmen nicht unterstützt, benenne das kurz und erfinde keine Ersatzinformationen.
+Starte einen neuen Website-Verkaufsprototyp.
+Lies zuerst GLOBAL_RULES.md, die vorhandenen Tool-Anweisungen und customer.md. Prüfe danach assets/ und references/vollständig, soweit zugänglich. Analysiere die angegebene Unternehmenswebsite und verlässliche Unternehmensquellen.
+Entwickle nach den verbindlichen Projektregeln ein individuelles Konzept für die Startseite dieses Unternehmens.
+Präsentiere zunächst ausschließlich das kurze Konzept mit:
+* Sektionen und Reihenfolge
+* visueller Richtung
+* Bildnutzung
+* wichtigsten Conversion-Elementen
+* gegebenenfalls einem sinnvollen interaktiven Element
+* einer individuellen Idee für dieses Unternehmen
+Warte danach auf mein ausdrückliches Umsetzungs-Go. Vor diesem Go darfst du keinen Website-Code erzeugen oder verändern und keine Website-Dateien anlegen, löschen oder überschreiben.
+Wenn benötigte Dateien oder Informationen fehlen oder die Zielumgebung den technischen Rahmen nicht unterstützt, benenne das kurz und erfinde keine Ersatzinformationen.
+   MASTER-PROMPT: Premium-Website für Schleicher & Braun GmbH – Finanzdienstleistungen mit Vertrauen
+Erstelle eine außergewöhnlich hochwertige, moderne und professionelle Website für Schleicher & Braun GmbH, erreichbar über https://www.finanzdienstleistungen-vertrauen.com.
+Das Unternehmen ist im Bereich Finanzdienstleistungen tätig und begleitet Privatkunden, Selbstständige und Unternehmer bei finanziellen Entscheidungen rund um persönliche Absicherung, Vermögensaufbau, Altersvorsorge, Versicherungen und Immobilienfinanzierung.
+Ziel ist eine eigenständige, vertrauenswürdige und hochwertige digitale Präsenz, die die persönliche Beratungsphilosophie des Unternehmens mit einer modernen, klaren und technisch überzeugenden Nutzererfahrung verbindet.
+Die Website soll nicht wie ein beliebiger Online-Versicherungsvergleich, ein anonymes Finanzportal oder eine generische Bankwebsite wirken. Sie soll vermitteln, dass hinter dem Unternehmen persönliche Ansprechpartner stehen, die komplexe Finanzthemen verständlich aufbereiten und Kunden bei individuellen Entscheidungen begleiten.
+Qualität, Glaubwürdigkeit, Transparenz und ein verantwortungsvoller Umgang mit finanziellen Themen haben Vorrang vor aggressivem Marketing.
+1. Positionierung und Angebot
+Schleicher & Braun GmbH steht für persönliche Beratung und individuelle Lösungen in den Bereichen Versicherungen, finanzielle Vorsorge, Vermögensaufbau und Immobilienfinanzierung.
+Die Positionierung basiert auf folgenden Grundgedanken:
+* Persönliche Ansprechpartner statt anonymer Vergleichsportale.
+* Individuelle Betrachtung der Lebenssituation und finanziellen Ziele.
+* Verständliche Erläuterung komplexer Finanz- und Versicherungsthemen.
+* Strukturierte Betrachtung von Risiken, Absicherung und langfristiger Vorsorge.
+* Berücksichtigung persönlicher Bedürfnisse und des individuellen Risikoprofils.
+* Transparente Darstellung von Leistungen, Vergütungsmodellen und möglichen Interessenkonflikten.
+* Langfristige Begleitung bei finanziellen Entscheidungen, soweit dies zum tatsächlichen Leistungsangebot gehört.
+Unternehmensdaten
+Verwende die folgenden Angaben als Ausgangspunkt für die neue Website:
+Unternehmensname: Schleicher & Braun GmbH
+Bestehende Website: https://www.finanzdienstleistungen-vertrauen.com
+Branche: Finanzdienstleistungen, Versicherungsvermittlung, Finanzanlagenvermittlung und Immobiliardarlehensvermittlung.
+Geschäftsführer laut bestehendem Impressum:
+* Stefan Braun
+* Thomas Schleicher
+Anschrift laut bestehendem Impressum: Schleicher & Braun GmbH Bibersfelder Straße 6 74523 Schwäbisch Hall
+Büroanschrift laut bestehender Website: Stauffenbergstraße 35–37 74523 Schwäbisch Hall
+Telefon: +49 (791) 94519-59
+Weitere Telefonnummer laut Über-uns-Seite: +49 (7977) 91999-51
+Fax: +49 (791) 94519-60
+E-Mail laut bestehender Website: info(at)sundb-gmbh.de
+Verwende diese Unternehmensdaten nur im vorgesehenen Umfang und prüfe sie vor Veröffentlichung auf Aktualität. Insbesondere die E-Mail-Adresse, die Zuordnung der Telefonnummern zu den Ansprechpartnern und die Anschriften müssen bestätigt werden. Erfinde keine weiteren Kontaktdaten.
+Leistungen des Unternehmens
+Stelle die bekannten und tatsächlich angebotenen Leistungsbereiche verständlich und übersichtlich dar.
+Persönliche Absicherung und Versicherungen
+* Private Haftpflichtversicherung
+* Kfz-Versicherung
+* Hausrat- und Wohngebäudeversicherung
+* Rechtsschutzversicherung
+* Unfallversicherung
+* Berufsunfähigkeitsversicherung
+* Risikolebensversicherung
+* Private Krankenversicherung und Krankenzusatzversicherung
+* Pflegeversicherung
+* Gewerbeversicherungen und weitere betriebliche Absicherungen, soweit angeboten
+Altersvorsorge und finanzielle Vorsorge
+* Private Altersvorsorge
+* Rentenversicherungen
+* Basisrente und weitere Vorsorgekonzepte, soweit angeboten
+* Hinterbliebenenschutz
+* Betrachtung bestehender Vorsorgelösungen im Rahmen der tatsächlich angebotenen Beratung
+Vermögensaufbau und Geldanlage
+* Individueller Vermögensaufbau
+* Finanzanlagenvermittlung im Rahmen der tatsächlich bestehenden Erlaubnis
+* Auseinandersetzung mit Anlagezielen, Anlagehorizont und Risikobereitschaft
+* ETFs und weitere geeignete Anlageprodukte, soweit vom Unternehmen angeboten und vermittelt
+* Strukturierte Betrachtung bestehender Anlageentscheidungen
+Immobilienfinanzierung und Wohneigentum
+* Immobiliardarlehensvermittlung
+* Baufinanzierung
+* Bausparen
+* Finanzielle Planung beim Erwerb einer Immobilie
+* Berücksichtigung von Finanzierung, Absicherung und langfristiger finanzieller Belastung
+Weitere Vergleichs- und Vermittlungsangebote
+Die bestehende Website zeigt zusätzlich Vergleichsmöglichkeiten für verschiedene Versicherungsprodukte, Kredite, Konten, Tagesgeld und weitere Angebote. Übernimm diese nur dann in die neue Website, wenn die jeweiligen Angebote weiterhin bestehen, technisch funktionieren und inhaltlich sowie rechtlich freigegeben sind.
+Unterscheide klar zwischen persönlicher Beratung, erlaubnispflichtiger Vermittlung, externen Vergleichsrechnern und sonstigen Informationsangeboten.
+Stelle keine Leistungen als persönliche Beratungs- oder Vermittlungsleistungen dar, wenn sie tatsächlich nur über einen externen Rechner oder Drittanbieter bereitgestellt werden.
+Zielgruppen
+Die Website richtet sich insbesondere an:
+* Privatkunden, die ihre finanzielle Situation strukturieren möchten.
+* Familien, die Risiken absichern und langfristig vorsorgen möchten.
+* Selbstständige und Freiberufler mit individuellen Vorsorge- und Absicherungsbedürfnissen.
+* Unternehmer, die private und gegebenenfalls betriebliche Risiken betrachten möchten.
+* Berufstätige, die sich mit Altersvorsorge und Vermögensaufbau beschäftigen.
+* Menschen, die eine Immobilie erwerben oder finanzieren möchten.
+* Immobilienbesitzer, die ihre Finanzierung und Absicherung überprüfen möchten.
+* Menschen, die sich in einer neuen Lebensphase befinden und ihre bisherigen Finanzentscheidungen neu bewerten möchten.
+Die Ansprache soll unterschiedliche Lebenssituationen berücksichtigen, ohne Zielgruppen zu stereotypisieren oder Ängste auszunutzen.
+Zentrale Markenbotschaft
+Entwickle eine Positionierung, die sinngemäß vermittelt:
+„Finanzielle Entscheidungen verdienen Vertrauen. Wir betrachten Ihre Situation, erklären Ihre Möglichkeiten und begleiten Sie bei Entscheidungen rund um Absicherung, Vorsorge und Vermögensaufbau.“
+Diese Aussage ist eine inhaltliche Leitlinie und kein zwingend zu verwendender Werbeslogan.
+2. Designrichtung
+Entwickle eine eigenständige visuelle Identität mit professioneller Art Direction, die Seriosität, persönliche Nähe, Klarheit und langfristiges Denken vermittelt.
+Das Ergebnis soll aussehen, als wäre es von einer ausgezeichneten Branding- und Digitalagentur für einen anspruchsvollen Finanzdienstleister gestaltet worden.
+Die Gestaltung muss sich deutlich von typischen Finanzportalen, austauschbaren Versicherungsvergleichsseiten und standardisierten Bankwebsites unterscheiden.
+Vermeide ausdrücklich:
+* Typische KI-Designs und generische SaaS-Layouts
+* Beliebige lila-blaue Farbverläufe
+* Neonfarben, übertriebene Glows und künstliche 3D-Kugeln
+* Immer gleiche Kartenraster und abgerundete Container überall
+* Stockfotos mit Personen vor Laptops
+* Künstlich inszenierte Händedruck-, Sparschwein-, Geldschein- oder Münzmotive
+* Klischeehafte Börsencharts, die ohne sachlichen Zusammenhang Gewinne oder Wachstum suggerieren
+* Überladene Animationen und unnötige Effekte
+* Generische Aussagen wie „Wir bringen Ihr Vermögen auf das nächste Level“
+* Unbelegte Aussagen über garantierte Renditen, finanzielle Sicherheit oder überlegene Anlageergebnisse
+* Erfundenes Kundenfeedback, Referenzen, Statistiken, Zertifikate oder Auszeichnungen
+* Eine austauschbare Gestaltung, die lediglich aus austauschbaren Leistungsboxen und einem Kontaktformular besteht
+Nutze stattdessen eine klare Typografie, starke Kontraste, großzügige Weißräume, ein durchdachtes Raster, präzise Abstände und ausgewählte visuelle Details.
+Visuelle Leitidee
+Entwickle eine hochwertige Gestaltung rund um die Idee von Orientierung und Weitblick bei finanziellen Entscheidungen.
+Abstrahierte Linien, fein strukturierte Flächen, typografische Hierarchien und eine reduzierte visuelle Ordnung können unterschiedliche Lebensphasen, finanzielle Zusammenhänge und langfristige Entscheidungen symbolisieren.
+Die visuelle Sprache darf Anklänge an hochwertige Editorial- und Corporate-Designs aufgreifen, sollte aber nicht wie ein klassischer Geschäftsbericht aussehen.
+Eine mögliche Farbwelt besteht aus dunklem Tintenblau oder tiefem Waldgrün, warmem Off-White, gedeckten Stein- und Sandtönen sowie einem sparsam eingesetzten Messing- oder Ockerton als Akzent. Entwickle daraus ein konsistentes Designsystem, statt Farben wahllos zu kombinieren.
+Die Gestaltung soll zugleich menschlich und sachlich sein: persönlich genug für eine Beratungsbeziehung, präzise genug für finanzielle Themen.
+Verwende echte Unternehmens- oder Ansprechpartnerfotos nur, wenn sie verfügbar und zur Verwendung freigegeben sind. Andernfalls arbeite mit hochwertiger Typografie, grafischen Elementen und abstrahierten Kompositionen, statt Personen oder Unternehmenssituationen zu erfinden.
+Die Website muss auch ohne Animationen hochwertig wirken.
+3. Hero-Bereich
+Die erste Bildschirmansicht soll sofort vermitteln, worum es bei Schleicher & Braun geht: persönliche finanzielle Orientierung, individuelle Beratung und verantwortungsvolle Entscheidungen.
+Hauptüberschrift
+„Finanzielle Entscheidungen verdienen Vertrauen.“
+Unterüberschrift
+„Schleicher & Braun begleitet Sie bei Fragen zu Absicherung, Altersvorsorge, Vermögensaufbau und Immobilienfinanzierung – persönlich, verständlich und orientiert an Ihrer individuellen Situation.“
+Die Formulierung darf redaktionell verbessert werden, wenn die Positionierung erhalten bleibt.
+Primäre Schaltfläche
+„Beratung anfragen“
+Die Schaltfläche führt zu einem funktionierenden Kontaktbereich oder Kontaktformular.
+Sekundäre Schaltfläche
+„Leistungen entdecken“
+Die Schaltfläche führt zum Leistungsbereich der Website.
+Gestalterische Umsetzung
+Der Hero-Bereich soll visuell eigenständig und einprägsam sein.
+Entwickle eine hochwertige typografische Komposition oder ein abstraktes grafisches Motiv, das Planung, Zusammenhänge, Orientierung und langfristige Perspektive ausdrückt.
+Keine austauschbare Illustration, kein generischer Laptop-Mockup und kein künstlicher Börsenchart als Hauptmotiv.
+Die Überschrift muss klar dominieren. Die Unterüberschrift soll gut lesbar bleiben und die Positionierung konkret erklären.
+Die Nutzer müssen unmittelbar erkennen, dass Schleicher & Braun ein persönlicher Ansprechpartner für Finanz- und Versicherungsthemen ist und nicht lediglich ein anonymes Vergleichsportal.
+4. Seitenstruktur
+Erstelle eine vollständige, logisch aufgebaute Website mit folgenden Bereichen:
+1. Navigation
+Die Navigation enthält:
+* Unternehmenslogo beziehungsweise Wortmarke
+* Leistungen
+* Beratung
+* Vermögensaufbau
+* Über uns
+* Kontakt
+Die Navigation muss übersichtlich, responsiv und auf eine schnelle Kontaktaufnahme ausgelegt sein.
+Rechtliche Angaben erhalten gut auffindbare Links im Footer.
+2. Hero
+Klare Positionierung mit der Überschrift „Finanzielle Entscheidungen verdienen Vertrauen.“, einer verständlichen Einordnung der Leistungen und den beiden Schaltflächen „Beratung anfragen“ und „Leistungen entdecken“.
+3. Leistungsübersicht
+Präsentiere die tatsächlichen Leistungen des Unternehmens in einer hochwertigen und verständlichen Informationsarchitektur.
+Schwerpunkte sind:
+* Absicherung: Versicherungen für persönliche, familiäre und gegebenenfalls gewerbliche Risiken.
+* Altersvorsorge: Möglichkeiten für die finanzielle Planung späterer Lebensphasen.
+* Vermögensaufbau: Individuelle Auseinandersetzung mit Anlagezielen und Risikobereitschaft im Rahmen des tatsächlichen Angebots.
+* Immobilienfinanzierung: Begleitung bei Fragen zur Finanzierung von Wohneigentum.
+* Finanzplanung: Betrachtung der individuellen Ausgangssituation und ihrer verschiedenen finanziellen Zusammenhänge, soweit diese Leistung tatsächlich erbracht wird.
+Jeder Leistungsbereich erhält einen kurzen, konkreten Erklärungstext und einen sinnvollen weiterführenden Link oder eine Kontaktmöglichkeit.
+Vermeide überladene Produktlisten auf der Startseite. Tiefergehende Produktinformationen können auf separaten Unterseiten dargestellt werden.
+4. Beratungssituationen und Zielgruppen
+Ersetze klassische Branchenlösungen durch Lebenssituationen und finanzielle Fragestellungen.
+Beispiele:
+* Die eigene Absicherung überprüfen
+* Für die Familie vorsorgen
+* Altersvorsorge planen
+* Vermögen langfristig aufbauen
+* Eine Immobilie finanzieren
+* Als Selbstständiger die persönliche Vorsorge strukturieren
+* Bestehende Versicherungen und Finanzprodukte überprüfen
+Beschreibe jeweils, weshalb die Fragestellung relevant sein kann und wie eine individuelle Beratung dabei helfen kann, die eigenen Möglichkeiten besser zu verstehen.
+Stelle keine automatische Eignung bestimmter Finanzprodukte für bestimmte Zielgruppen dar. Finanzielle Entscheidungen hängen immer von der konkreten persönlichen Situation ab.
+5. Beratungsfelder und typische Entscheidungssituationen
+Ersetze eine klassische Projektübersicht durch eine hochwertige Darstellung typischer Beratungsanlässe.
+Da keine verifizierten Kundenreferenzen oder freigegebenen Beratungsfallstudien vorausgesetzt werden können, verwende keine erfundenen Kunden, Erfolgsgeschichten oder tatsächlichen Anlageergebnisse.
+Nutze stattdessen nachvollziehbare, allgemein gehaltene Beispiele, die ausdrücklich als beispielhafte Situationen gekennzeichnet sind.
+Mögliche Themen:
+* Welche Absicherungen sind für die aktuelle Lebenssituation relevant?
+* Wie unterscheiden sich verschiedene Möglichkeiten der Altersvorsorge?
+* Welche Faktoren sollten vor einer Immobilienfinanzierung geprüft werden?
+* Welche Bedeutung haben Anlagehorizont und Risikobereitschaft beim Vermögensaufbau?
+* Wie lassen sich bestehende Versicherungen und Vorsorgelösungen strukturiert überprüfen?
+Diese Inhalte dienen der Orientierung und nicht der automatischen Erteilung individueller Anlage- oder Versicherungsentscheidungen.
+6. Finanzielle Zusammenhänge verständlich erklärt
+Entwickle einen inhaltlich starken Bereich, der die Beratungsqualität des Unternehmens und die wichtigsten finanziellen Zusammenhänge verständlich darstellt.
+Erkläre beispielsweise:
+* Warum eine persönliche Bedarfsermittlung sinnvoll ist.
+* Welche Unterschiede zwischen Absicherung, Vorsorge und Vermögensaufbau bestehen.
+* Warum Anlagehorizont und Risikobereitschaft bei Anlageentscheidungen wichtig sind.
+* Welche Faktoren die Gesamtkosten und langfristigen Belastungen einer Immobilienfinanzierung beeinflussen.
+* Warum Versicherungsschutz regelmäßig überprüft werden sollte.
+* Wie sich Risiken, Kosten, Laufzeiten und Vertragsbedingungen verschiedener Produkte unterscheiden können.
+* Warum mögliche Renditen immer im Zusammenhang mit Risiken und möglichen Verlusten betrachtet werden müssen.
+Die Inhalte sollen sachlich, hilfreich und leicht verständlich sein.
+Vermeide vereinfachende Darstellungen, die komplexe Finanzentscheidungen auf einzelne Kennzahlen reduzieren.
+7. Zusammenarbeit und Beratungsablauf
+Stelle die tatsächliche Zusammenarbeit nachvollziehbar dar. Nutze dafür einen klaren Ablauf:
+1. Erstgespräch: Anliegen, Fragen und aktuelle Situation kennenlernen.
+2. Bedarfsermittlung: Individuelle Ziele, Rahmenbedingungen und relevante Risiken erfassen.
+3. Analyse: Bestehende Absicherungen oder die konkrete finanzielle Fragestellung strukturiert betrachten.
+4. Möglichkeiten besprechen: Relevante Lösungsoptionen und ihre jeweiligen Eigenschaften erläutern.
+5. Entscheidung und Umsetzung: Die nächsten Schritte entsprechend der vereinbarten Leistung und Entscheidung des Kunden abstimmen.
+6. Weitere Begleitung: Möglichkeiten einer späteren Überprüfung oder Betreuung darstellen, sofern diese tatsächlich angeboten werden.
+Die Darstellung muss Erwartungen realistisch halten. Erfinde keine festen Bearbeitungszeiten, kostenlosen Beratungsleistungen oder garantierten Ergebnisse.
+8. Vertrauen und Unternehmensprofil
+Vermittle Vertrauen durch nachvollziehbare Informationen und eine authentische Darstellung des Unternehmens.
+Berücksichtige:
+* Die Unternehmensidentität der Schleicher & Braun GmbH
+* Die beiden Geschäftsführer Stefan Braun und Thomas Schleicher, sofern ihre Angaben und Bildrechte bestätigt sind
+* Die persönliche Beratungsausrichtung
+* Die verständliche Erläuterung von Finanz- und Versicherungsthemen
+* Die transparente Kommunikation von Leistungen und Vergütungsmodellen
+* Die tatsächlichen Erlaubnisse und Vermittlerregistrierungen, soweit diese aktuell bestätigt sind
+Die bestehende Website nennt mehr als 30 Jahre Erfahrung in der Finanzdienstleistungsbranche. Übernimm diese Aussage nur, wenn das Unternehmen sie vor Veröffentlichung ausdrücklich bestätigt.
+Begriffe wie „unabhängig“ oder „anbieterunabhängig“ dürfen nicht pauschal oder irreführend eingesetzt werden. Die genaue Formulierung muss zum tatsächlichen Vermittlerstatus, zum jeweiligen Leistungsbereich und zu den geltenden Vergütungs- und Offenlegungspflichten passen.
+Verzichte auf erfundene Teammitglieder, Auszeichnungen, Kundenbewertungen, Fallstudien und Erfolgsgeschichten.
+9. FAQ
+Erstelle einen verständlichen FAQ-Bereich mit relevanten Fragen und sachlichen Antworten.
+Berücksichtige beispielsweise:
+* Welche Leistungen bietet Schleicher & Braun an?
+* Wie läuft ein erstes Beratungsgespräch ab?
+* Welche Informationen sind für eine Bedarfsermittlung hilfreich?
+* Wie funktioniert die Überprüfung bestehender Versicherungen?
+* Welche Rolle spielen Kosten und Vergütung bei der Vermittlung?
+* Was sollte bei der Altersvorsorge berücksichtigt werden?
+* Welche Rolle spielen Risikobereitschaft und Anlagehorizont beim Vermögensaufbau?
+* Welche Faktoren beeinflussen eine Immobilienfinanzierung?
+* Können bestehende Versicherungen und Finanzprodukte überprüft werden?
+* Ist eine laufende Betreuung möglich?
+* Welche Unterlagen können für ein Beratungsgespräch hilfreich sein?
+Die Antworten müssen sich auf das tatsächlich angebotene Leistungsspektrum beziehen.
+Gib keine individuellen Anlageempfehlungen, verbindlichen Finanzierungszusagen oder vermeintlich garantierten Versicherungsleistungen über allgemeine FAQ-Texte.
+Wo eine konkrete Antwort von der persönlichen Situation, dem Produkt oder dem geltenden Vergütungsmodell abhängt, erkläre diesen Zusammenhang verständlich.
+10. Kontakt
+Gestalte einen übersichtlichen Kontaktbereich mit einer klaren Handlungsaufforderung.
+Verwende, nach Bestätigung, die tatsächliche Telefonnummer, E-Mail-Adresse und Unternehmensanschrift.
+Das Kontaktformular soll eine möglichst niedrigschwellige Kontaktaufnahme ermöglichen.
+Sinnvolle Formularfelder:
+* Name
+* E-Mail-Adresse
+* Telefonnummer, optional
+* Anliegen beziehungsweise Themenbereich
+* Nachricht
+Eine Auswahl des Anliegens kann beispielsweise die Bereiche Absicherung, Altersvorsorge, Vermögensaufbau, Immobilienfinanzierung und allgemeine Anfrage enthalten.
+Erhebe nur Informationen, die für die erste Kontaktaufnahme tatsächlich erforderlich sind.
+Fordere Nutzer nicht auf, Kontodaten, Zugangsdaten, Depotnummern, vollständige Vertragsnummern oder andere vertrauliche Finanzinformationen über ein allgemeines Kontaktformular zu übermitteln.
+11. Footer
+Der Footer enthält, soweit bestätigt:
+* Unternehmensname und freigegebene Kontaktdaten
+* Links zu Leistungen und Über uns
+* Kontaktmöglichkeit
+* Impressum
+* Datenschutzerklärung
+* Gegebenenfalls weitere rechtlich erforderliche Informationen
+* Informationen zu Vermittlerstatus, Erlaubnissen und Registern, sofern für die jeweilige Darstellung erforderlich und aktuell geprüft
+Die rechtlichen Pflichtangaben müssen auf die konkrete Tätigkeit des Unternehmens abgestimmt sein.
+Erfinde weder rechtliche Angaben noch Registrierungsdaten oder Aufsichtsbehörden.
+5. Technische Anforderungen
+Setze die Website mit einer modernen, wartbaren Architektur um. Verwende React und TypeScript, vorzugsweise Next.js, sofern die vorhandene Entwicklungsumgebung dies unterstützt.
+Achte auf:
+* Mobile-first und vollständig responsives Design
+* Sehr gute Ladezeiten und Core Web Vitals
+* Semantisches HTML und barrierearme Bedienung
+* Tastaturnavigation und sichtbare Fokuszustände
+* Gute Kontraste und sinnvolle Alternativtexte
+* Berücksichtigung von prefers-reduced-motion
+* Saubere Komponentenstruktur und wiederverwendbare Komponenten
+* Sinnvolle SEO-Metadaten, Open-Graph-Daten und strukturierte Daten
+* Sichere Verarbeitung von Kontaktformularen
+* Serverseitige Validierung und Schutz sensibler Daten
+* Keine geheimen API-Schlüssel im Frontend
+* Keine vorgetäuschten Formular-Erfolgsmeldungen
+* Funktionierende Links, Buttons und Navigation
+6. SEO und Sichtbarkeit
+Optimiere die Website für relevante Suchanfragen rund um Finanzdienstleistungen, Versicherungsberatung, Vermögensaufbau, Altersvorsorge und Immobilienfinanzierung.
+Berücksichtige:
+* Technische SEO
+* Klare Überschriftenhierarchie
+* Aussagekräftige Seitentitel und Meta-Beschreibungen
+* Strukturierte Daten, wo sachlich passend
+* Interne Verlinkung
+* Lokale SEO nur mit echten Standort- und Unternehmensdaten
+* Verständliche Inhalte, die sowohl Suchmaschinen als auch KI-Suchsysteme einordnen können
+Verwende keine künstlichen Keyword-Wiederholungen. Inhalte sollen zuerst für Menschen geschrieben werden.
+Berücksichtige unter anderem folgende natürliche Suchthemen:
+* Finanzdienstleistungen und persönliche Finanzberatung
+* Versicherungsmakler in Schwäbisch Hall
+* Versicherungen und persönliche Absicherung
+* Altersvorsorge und Vermögensaufbau
+* Finanzanlagenvermittlung
+* Immobilienfinanzierung und Baufinanzierung
+* Individuelle Vorsorgeplanung
+Verwende lokale Suchbegriffe nur in einem sachlich passenden Zusammenhang mit dem bestätigten Unternehmensstandort Schwäbisch Hall.
+Die Website soll keine Rankings garantieren und keine unbelegten Aussagen zur Marktführerschaft enthalten.
+7. Texte und Markenwirkung
+Schreibe alle Website-Texte in natürlichem, professionellem Deutsch. Die Ansprache soll direkt, verständlich und selbstbewusst sein.
+Vermeide:
+* Leere Marketingfloskeln
+* Übertriebene Superlative
+* Unbelegte Garantien
+* Typische KI-Formulierungen
+* Technische Fachbegriffe ohne Erklärung, wenn sie für die Zielgruppe nicht nötig sind
+Stelle den tatsächlichen Mehrwert persönlicher Finanzdienstleistungen heraus: individuelle Bedarfsermittlung, verständliche Erläuterung verschiedener Möglichkeiten, transparente Betrachtung von Kosten und Risiken sowie eine nachvollziehbare Entscheidungsgrundlage.
+Die Sprache soll Sicherheit durch Klarheit vermitteln, nicht durch unbegründete Versprechen.
+Vermeide insbesondere:
+* Garantierte Gewinne oder Renditen
+* Garantierte finanzielle Sicherheit
+* Pauschale Aussagen wie „Die beste Geldanlage für jeden“
+* Unbelegte Versprechen über Steuerersparnisse
+* Druck durch künstliche Verknappung oder Angst vor finanziellen Verlusten
+* Irreführende Vergleiche mit Banken, Versicherern oder anderen Vermittlern
+* Nicht belegte Aussagen über besonders niedrige Kosten oder überlegene Anlageergebnisse
+Formuliere finanzielle Zusammenhänge differenziert. Unterscheide zwischen möglichen Vorteilen, Risiken, Kosten und individuellen Voraussetzungen.
+Die Marke soll als zugänglicher, verlässlicher und kompetenter Ansprechpartner wahrgenommen werden – nicht als aggressiver Verkäufer von Finanzprodukten.
+8. Interaktionen und Nutzerführung
+Alle Buttons und interaktiven Elemente müssen eine sinnvolle Funktion haben. Kontaktmöglichkeiten sollen leicht auffindbar sein. Das Kontaktformular muss Eingaben validieren und nachvollziehbare Fehlermeldungen anzeigen.
+Nutze subtile Übergänge und Animationen, aber keine Effekte, die Ladezeit, Lesbarkeit oder Bedienbarkeit beeinträchtigen.
+Das Kontaktformular darf nur dann eine erfolgreiche Übermittlung bestätigen, wenn die Anfrage tatsächlich durch die implementierte Verarbeitung angenommen wurde.
+Falls eine externe Vermittlungs-, Vergleichs- oder Rechnerfunktion integriert wird, muss sie technisch erreichbar sein und transparent als externe Funktion erkennbar bleiben.
+Es dürfen keine scheinbaren Finanzrechner, Renditesimulatoren oder interaktiven Beratungsfunktionen entstehen, die tatsächlich keine korrekten Berechnungen durchführen.
+9. Ehrlichkeit und rechtliche Vorsicht
+Erfinde keine Kunden, Testimonials, Bewertungen, Auszeichnungen, Geschäftszahlen, Adressen, Preise, Garantien oder tatsächlichen Beratungsergebnisse.
+Verwende für fehlende Unternehmensangaben klar erkennbare Platzhalter. Erstelle Bereiche für Impressum und Datenschutz, aber behaupte nicht, dass rechtliche Konformität automatisch gewährleistet ist. Rechtliche Angaben müssen vor Veröffentlichung geprüft und vervollständigt werden.
+Berücksichtige insbesondere die Anforderungen an die Darstellung eines deutschen Finanzdienstleisters und die tatsächlich vorliegenden Erlaubnisse und Vermittlertätigkeiten.
+Laut bestehendem Impressum werden folgende Tätigkeiten genannt:
+* Versicherungsmakler mit Erlaubnis nach § 34d Abs. 1 GewO
+* Finanzanlagenvermittler mit Erlaubnis nach § 34f Abs. 1 Satz 1 Nr. 1 GewO
+* Immobiliardarlehensvermittler mit Erlaubnis nach § 34i Abs. 1 GewO
+Das bestehende Impressum nennt außerdem entsprechende Vermittlerregistereinträge und die IHK Heilbronn-Franken als zuständige Stelle.
+Diese Informationen stammen aus dem bisherigen Internetauftritt. Prüfe vor Veröffentlichung, ob sämtliche Angaben, Erlaubnisse, Registereinträge, gesetzlichen Verweise, Zuständigkeiten und Vergütungsinformationen noch aktuell sind. Übernimm sie nicht ungeprüft.
+Die Website darf keine Erlaubnis oder aufsichtsrechtliche Stellung suggerieren, die das Unternehmen nicht besitzt.
+Beachte außerdem:
+* Kein Versprechen bestimmter Anlageergebnisse oder Renditen.
+* Keine Darstellung von Wertpapieren oder Geldanlagen als risikofrei.
+* Keine individuelle Anlage- oder Versicherungsberatung über allgemeine Werbetexte.
+* Keine irreführenden Aussagen zur Unabhängigkeit.
+* Keine erfundenen Aussagen zu Beratungskosten oder provisionsfreier Beratung.
+* Transparente Darstellung der jeweils einschlägigen Vergütung und möglicher Interessenkonflikte.
+* Keine Übernahme veralteter rechtlicher Angaben ohne Aktualitätsprüfung.
+* Keine Übermittlung sensibler Kundendaten über unzureichend abgesicherte Formulare.
+* Keine Behauptung vollständiger Rechtskonformität ohne fachliche Prüfung.
+Die aktuelle Rechtssituation und die konkreten Anforderungen an Pflichtinformationen, Datenschutz, Cookie-Einwilligungen und Vermittlerangaben müssen vor dem produktiven Einsatz geprüft werden.
+10. Abschließende Qualitätskontrolle
+Arbeite nicht einfach eine Standardvorlage ab. Entwickle zuerst ein konsistentes Designkonzept und setze es konsequent um.
+Prüfe anschließend:
+* Visuelle Qualität und Wiedererkennbarkeit
+* Responsivität auf Smartphone, Tablet und Desktop
+* Funktionierende Navigation und Links
+* Formularvalidierung und tatsächliches Absendeverhalten
+* Ladezeit und technische Fehler
+* SEO-Grundlagen und Metadaten
+* Barrierearme Bedienung
+* Sicherheit und Wartbarkeit
+Prüfe zusätzlich die branchenspezifische Qualität:
+* Sind alle Unternehmensdaten korrekt und freigegeben?
+* Entsprechen die dargestellten Leistungen dem tatsächlichen Angebot?
+* Sind rechtliche Angaben aktuell und vollständig?
+* Sind Anlage- und Versicherungsrisiken angemessen dargestellt?
+* Werden keine unbelegten Rendite-, Leistungs- oder Erfolgsversprechen gemacht?
+* Ist der Unterschied zwischen Beratung, Vermittlung und externen Vergleichsangeboten verständlich?
+* Sind Kontaktformulare datensparsam und sicher umgesetzt?
+* Sind die Kontaktmöglichkeiten eindeutig und funktionsfähig?
+* Entsprechen die Texte einer vertrauenswürdigen, sachlichen und verständlichen Finanzkommunikation?
+* Sind alle Beispielinhalte klar von echten Kundenfällen und tatsächlichen Ergebnissen getrennt?
+Falls die Entwicklungsumgebung die Umsetzung einer Funktion nicht unterstützt, dokumentiere die Einschränkung ehrlich, statt eine Funktion nur optisch vorzutäuschen.
+Das Endergebnis soll eine individuelle, elegante, technisch überzeugende Premium-Website für Schleicher & Braun GmbH sein – mit eigenständigem Charakter, hoher Benutzerfreundlichkeit und einem professionellen Gesamtauftritt.
+Die Website soll die persönliche Ausrichtung des Unternehmens, die tatsächlichen Beratungs- und Vermittlungsleistungen sowie einen verantwortungsvollen Umgang mit Finanzthemen sichtbar machen.
+Qualität, Glaubwürdigkeit, Transparenz und Individualität haben Vorrang vor visuellen Effekten und übertriebenen Marketingversprechen.
